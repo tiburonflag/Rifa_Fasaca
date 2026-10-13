@@ -7,8 +7,8 @@ const inter = Inter({ subsets: ['latin'], variable: '--font-inter' })
 const display = Playfair_Display({ subsets: ['latin'], variable: '--font-display' })
 
 export const metadata: Metadata = {
-  title: 'Huellas con propósito · Rifa solidaria',
-  description: 'Participa en la rifa solidaria para apoyar a un perrito de la calle. Elige tu número y ayuda a cambiar una vida.',
+  title: 'Vitrales · Rifa solidaria',
+  description: 'Participa en la rifa solidaria para apoyar las instalaciones de los vitrales en la Parroquia.',
   generator: 'v0.app',
   icons: {
     icon: [
